@@ -66,7 +66,7 @@ The procedure was following:
     -  API that can "decode" geodata with longitudes and latitudes to country name merge the 2 datasets on country and year
 - get the data in a JSON with the API
 - use the worldbank API to get the data of populatipon density and countries
-- create a bar chart (The number of meteorites based on population density)
+- create a bar chart of the number of meteorites based on population density
 
 
 ### 2. Meteorites and GDP per capita 
@@ -75,17 +75,20 @@ The procedure was following:
 - connect GDP/capita and number of meteorites to create histogram
 - clean country name in GDP per capita dataset
 - query and Joined gdpcapita and meteorite dataset in Knime
-- create a bar chart (AVG meteorite value by country)
+- create a bar chart of the number of meteorites based on GDP per capita
 
 
 ## Critital method for this analysis
 - a random subset of 100 is used to speed up knime.
+- (other things if any)
 
 
 ## Data model (ER diagram for RDBMS)
 (entity relation for RDBMS)
 
-## Analytics and/or visualization (needs explananion of x, y axis, and some suggestions)
+## Analytics and/or visualization (needs explananion of x, y axis, and some suggestions from results)
+
+The following graphs shows the number of meteorites based on population density and GDP per capita. 
 
 ### The number of meteorites based on GDP per capita
 
