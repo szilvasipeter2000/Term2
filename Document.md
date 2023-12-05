@@ -9,12 +9,12 @@ For our analysis we were inspired by a data visualisation created by Milan Janos
 ## Data
 
 1. The dataset on meteorites is downloaded from the website of NASA and then loaded into SQL. The dataset contains more than 45 thousand observations. The table contains information (among others) on the id, name and mass of the meteorite, its size (measured in weight in grams), the year when it was found and the exact coordinates of its location in longitude and latitude. The exact structure of the table is visible on the EER diagram. There are no missing values in the table, however the location columns include 0 values. The data was loaded into MySQL.
- https://data.nasa.gov/Space-Science/Meteorite-Landings/gh4g-9sfh
+The raw data and its description is available on this link: https://data.nasa.gov/Space-Science/Meteorite-Landings/gh4g-9sfh
 
-2. For population density we are using the dataset of the World Bank which we access through an API (which we describe later) in the Knime workflow. This data includes the country name, the country code and the population density value.
-3. For GDP per capita we are also using the World Bank database containing again country name, country code and the GDP per capita value in USD. This data was downloaded and also loaded into MySQL.
-4. To connect the meteorite dataset and the country related data we will use the API of BigDataCloud to convert the coordinates to country codes and names. 
-5. To visualize the meteorite landings on a world map, we shift to MongoDB to benefit from its JSON structure, uploading the full NASA dataset. After data cleaning through queries, we are able to exploit 38k observations. Transforming the dataset in GeoJSON, we use the mapping services of Mapbox.com to have a 3D rendering of the dataset. We also split the dataset into various time frames (upto 1800, 1800 to 1900,...) to visualize how the discoveries changed over time.
+3. For population density we are using the dataset of the World Bank which we access through an API (which we describe later) in the Knime workflow. This data includes the country name, the country code and the population density value.
+4. For GDP per capita we are also using the World Bank database containing again country name, country code and the GDP per capita value in USD. This data was downloaded and also loaded into MySQL.
+5. To connect the meteorite dataset and the country related data we will use the API of BigDataCloud to convert the coordinates to country codes and names. 
+6. To visualize the meteorite landings on a world map, we shift to MongoDB to benefit from its JSON structure, uploading the full NASA dataset. After data cleaning through queries, we are able to exploit 38k observations. Transforming the dataset in GeoJSON, we use the mapping services of Mapbox.com to have a 3D rendering of the dataset. We also split the dataset into various time frames (upto 1800, 1800 to 1900,...) to visualize how the discoveries changed over time.
 
 ## Assumptions for the ETL and the analysis
 Upon first inspection of the dataset we see that it contains a large number of observations in Antarctica. The GDP values and the population density values are likely to be extreme as well, and Antarctica is a huge scientific hub where we assume the meteorite spottings are incredibly overrrepresented compared to a country with a similar size, we will drop this continent from our analysis. We will do this by filtering out any observation where the latitude coordinates are smaller than -60.
