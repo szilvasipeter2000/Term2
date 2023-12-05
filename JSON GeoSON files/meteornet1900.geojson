@@ -1,0 +1,8832 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.08333,
+          50.775
+        ]
+      },
+      "properties": {
+        "name": "Aachen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.61667,
+          44.21667
+        ]
+      },
+      "properties": {
+        "name": "Agen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.95,
+          29.71667
+        ]
+      },
+      "properties": {
+        "name": "Akbarpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.08333,
+          44.11667
+        ]
+      },
+      "properties": {
+        "name": "Alais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.78333,
+          51.78333
+        ]
+      },
+      "properties": {
+        "name": "Aldsworth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.13333,
+          36.23333
+        ]
+      },
+      "properties": {
+        "name": "Aleppo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.75,
+          44.88333
+        ]
+      },
+      "properties": {
+        "name": "Alessandria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.81667,
+          50.95
+        ]
+      },
+      "properties": {
+        "name": "Alexandrovsky"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.15,
+          45.26667
+        ]
+      },
+      "properties": {
+        "name": "Alfianello"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.88333,
+          42.53333
+        ]
+      },
+      "properties": {
+        "name": "Allegan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.25,
+          27.66667
+        ]
+      },
+      "properties": {
+        "name": "Ambapur Nagla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.56667,
+          26.58333
+        ]
+      },
+      "properties": {
+        "name": "Andhara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.75,
+          44.61667
+        ]
+      },
+      "properties": {
+        "name": "Andover"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.55,
+          47.46667
+        ]
+      },
+      "properties": {
+        "name": "Angers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.31667,
+          -22.96667
+        ]
+      },
+      "properties": {
+        "name": "Angra dos Reis (stone)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.38333,
+          43.86667
+        ]
+      },
+      "properties": {
+        "name": "Apt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.03333,
+          42.45
+        ]
+      },
+      "properties": {
+        "name": "Asco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.55,
+          43.03333
+        ]
+      },
+      "properties": {
+        "name": "Assisi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.66667,
+          20.06667
+        ]
+      },
+      "properties": {
+        "name": "Atemajac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.16667,
+          44.38333
+        ]
+      },
+      "properties": {
+        "name": "Aubres"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.66667,
+          36.16667
+        ]
+      },
+      "properties": {
+        "name": "Aumale"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.23333,
+          44.33333
+        ]
+      },
+      "properties": {
+        "name": "Aumieres"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.58333,
+          43.08333
+        ]
+      },
+      "properties": {
+        "name": "Ausson"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.5,
+          25
+        ]
+      },
+      "properties": {
+        "name": "Avilez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38,
+          48.6
+        ]
+      },
+      "properties": {
+        "name": "Bachmut"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6,
+          -6.91667
+        ]
+      },
+      "properties": {
+        "name": "Bandong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.33333,
+          27.7
+        ]
+      },
+      "properties": {
+        "name": "Bansur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5,
+          42.38333
+        ]
+      },
+      "properties": {
+        "name": "Barea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1,
+          52
+        ]
+      },
+      "properties": {
+        "name": "Barntrup"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.31667,
+          45.41667
+        ]
+      },
+      "properties": {
+        "name": "Bath"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.33333,
+          51.16667
+        ]
+      },
+      "properties": {
+        "name": "Beaver Creek"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8,
+          41.68333
+        ]
+      },
+      "properties": {
+        "name": "Berlanguillas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.83333,
+          42.53333
+        ]
+      },
+      "properties": {
+        "name": "Bethlehem"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.23333,
+          43.21667
+        ]
+      },
+      "properties": {
+        "name": "Beuste"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.83333,
+          20.88333
+        ]
+      },
+      "properties": {
+        "name": "Bhagur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.46667,
+          20.83333
+        ]
+      },
+      "properties": {
+        "name": "Bherai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2,
+          53.1
+        ]
+      },
+      "properties": {
+        "name": "Bialystok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.16667,
+          50.13333
+        ]
+      },
+      "properties": {
+        "name": "Bielokrynitschie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.28333,
+          34.16667
+        ]
+      },
+      "properties": {
+        "name": "Bishopville"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.6,
+          25.38333
+        ]
+      },
+      "properties": {
+        "name": "Bishunpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8,
+          60.4
+        ]
+      },
+      "properties": {
+        "name": "Bjurb\u00f6le"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.63333,
+          49.36667
+        ]
+      },
+      "properties": {
+        "name": "Blansko"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102,
+          23
+        ]
+      },
+      "properties": {
+        "name": "Bocas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.05,
+          44.86667
+        ]
+      },
+      "properties": {
+        "name": "Borgo San Donino"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.03333,
+          21.95
+        ]
+      },
+      "properties": {
+        "name": "Bori"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.28333,
+          48.15
+        ]
+      },
+      "properties": {
+        "name": "Borkut"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.86667,
+          55.46667
+        ]
+      },
+      "properties": {
+        "name": "Borodino"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.88333,
+          51.33333
+        ]
+      },
+      "properties": {
+        "name": "Botschetschki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.08333,
+          40.5
+        ]
+      },
+      "properties": {
+        "name": "Bradford Woods"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3,
+          50.6
+        ]
+      },
+      "properties": {
+        "name": "Braunau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1,
+          53.4
+        ]
+      },
+      "properties": {
+        "name": "Bremerv\u00f6rde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.78333,
+          46.45
+        ]
+      },
+      "properties": {
+        "name": "Buschhof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.83333,
+          26.78333
+        ]
+      },
+      "properties": {
+        "name": "Bustee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.08333,
+          27.08333
+        ]
+      },
+      "properties": {
+        "name": "Butsura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.16667,
+          37.98333
+        ]
+      },
+      "properties": {
+        "name": "Cabezo de Mayo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.5,
+          35.5
+        ]
+      },
+      "properties": {
+        "name": "Cabin Creek"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.66667,
+          41.25
+        ]
+      },
+      "properties": {
+        "name": "Ca\u00f1ellas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.15,
+          43.38333
+        ]
+      },
+      "properties": {
+        "name": "Cangas de Onis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.58333,
+          37.26667
+        ]
+      },
+      "properties": {
+        "name": "Cape Girardeau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.06667,
+          36.08333
+        ]
+      },
+      "properties": {
+        "name": "Castalia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.75,
+          44.38333
+        ]
+      },
+      "properties": {
+        "name": "Castine"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.25,
+          36.5
+        ]
+      },
+      "properties": {
+        "name": "Caswell County"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3,
+          45.08333
+        ]
+      },
+      "properties": {
+        "name": "Cereseto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.66667,
+          25.36667
+        ]
+      },
+      "properties": {
+        "name": "Chail"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.01667,
+          20.26667
+        ]
+      },
+      "properties": {
+        "name": "Chandakapur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.05,
+          27.28333
+        ]
+      },
+      "properties": {
+        "name": "Chandpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.05,
+          46.68333
+        ]
+      },
+      "properties": {
+        "name": "Chantonnay"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.33333,
+          36.16667
+        ]
+      },
+      "properties": {
+        "name": "Charlotte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.56667,
+          47.93333
+        ]
+      },
+      "properties": {
+        "name": "Charsonville"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5,
+          29.48333
+        ]
+      },
+      "properties": {
+        "name": "Charwallas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.36667,
+          47.71667
+        ]
+      },
+      "properties": {
+        "name": "Chassigny"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.91667,
+          47.93333
+        ]
+      },
+      "properties": {
+        "name": "Ch\u00e2teau-Renard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5,
+          14.5
+        ]
+      },
+      "properties": {
+        "name": "Chetrinahatti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.38333,
+          -33.13333
+        ]
+      },
+      "properties": {
+        "name": "Cold Bokkeveld"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.61667,
+          42.53333
+        ]
+      },
+      "properties": {
+        "name": "Collescipoli"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.86667,
+          21.16667
+        ]
+      },
+      "properties": {
+        "name": "Cosina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.3,
+          -27.7
+        ]
+      },
+      "properties": {
+        "name": "Cronstad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.13333,
+          35.63333
+        ]
+      },
+      "properties": {
+        "name": "Cross Roads"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.25,
+          38.4
+        ]
+      },
+      "properties": {
+        "name": "Cynthiana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.96667,
+          26.91667
+        ]
+      },
+      "properties": {
+        "name": "Dandapur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.56667,
+          -28.2
+        ]
+      },
+      "properties": {
+        "name": "Daniel's Kuil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.06667,
+          34.4
+        ]
+      },
+      "properties": {
+        "name": "Danville"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.65,
+          49.86667
+        ]
+      },
+      "properties": {
+        "name": "Darmstadt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80,
+          43
+        ]
+      },
+      "properties": {
+        "name": "De Cewsville"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74,
+          40.25
+        ]
+      },
+      "properties": {
+        "name": "Deal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.25,
+          28.56667
+        ]
+      },
+      "properties": {
+        "name": "Delhi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.6,
+          14.88333
+        ]
+      },
+      "properties": {
+        "name": "Dharwar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.46667,
+          32.23333
+        ]
+      },
+      "properties": {
+        "name": "Dhurmsala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.5,
+          -7.5
+        ]
+      },
+      "properties": {
+        "name": "Djati-Pengilon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3,
+          50.75
+        ]
+      },
+      "properties": {
+        "name": "Dolgovoli"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.45,
+          21.86667
+        ]
+      },
+      "properties": {
+        "name": "Donga Kohrod"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.3,
+          51.2
+        ]
+      },
+      "properties": {
+        "name": "Doroninsk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5,
+          36.4
+        ]
+      },
+      "properties": {
+        "name": "Drake Creek"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.03333,
+          52.55
+        ]
+      },
+      "properties": {
+        "name": "Dundrum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.63333,
+          30.3
+        ]
+      },
+      "properties": {
+        "name": "Durala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.5,
+          -4
+        ]
+      },
+      "properties": {
+        "name": "Duruma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82,
+          26.25
+        ]
+      },
+      "properties": {
+        "name": "Dyalpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.61667,
+          -29.46667
+        ]
+      },
+      "properties": {
+        "name": "Emmaville"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.46667,
+          48.18333
+        ]
+      },
+      "properties": {
+        "name": "\u00c9pinal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.16667,
+          1.16667
+        ]
+      },
+      "properties": {
+        "name": "Ergheo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.25,
+          52.21667
+        ]
+      },
+      "properties": {
+        "name": "Erxleben"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1,
+          46.25
+        ]
+      },
+      "properties": {
+        "name": "Esnandes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.83333,
+          43.41667
+        ]
+      },
+      "properties": {
+        "name": "Estherville"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.03333,
+          39.75
+        ]
+      },
+      "properties": {
+        "name": "Farmington"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.81667,
+          44.38333
+        ]
+      },
+      "properties": {
+        "name": "Favars"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.45,
+          36.88333
+        ]
+      },
+      "properties": {
+        "name": "Feid Chair"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.16667,
+          32.53333
+        ]
+      },
+      "properties": {
+        "name": "Felix"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.41667,
+          36.1
+        ]
+      },
+      "properties": {
+        "name": "Ferguson"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.85,
+          47.81667
+        ]
+      },
+      "properties": {
+        "name": "Fisher"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.66667,
+          43.25
+        ]
+      },
+      "properties": {
+        "name": "Forest City"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.31667,
+          50.95
+        ]
+      },
+      "properties": {
+        "name": "Forsbach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.96667,
+          33.01667
+        ]
+      },
+      "properties": {
+        "name": "Forsyth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.83333,
+          34.48333
+        ]
+      },
+      "properties": {
+        "name": "Frankfort (stone)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.2,
+          33.18333
+        ]
+      },
+      "properties": {
+        "name": "Fukutomi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.81667,
+          25.95
+        ]
+      },
+      "properties": {
+        "name": "Futtehpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4,
+          44.3
+        ]
+      },
+      "properties": {
+        "name": "Galapian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.53333,
+          27.35
+        ]
+      },
+      "properties": {
+        "name": "Gambat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.56667,
+          37.31667
+        ]
+      },
+      "properties": {
+        "name": "Girgenti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.76667,
+          50.66667
+        ]
+      },
+      "properties": {
+        "name": "Gnadenfrei"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.05,
+          24.23333
+        ]
+      },
+      "properties": {
+        "name": "Gopalpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.38333,
+          43.66667
+        ]
+      },
+      "properties": {
+        "name": "Grosnaja"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.71667,
+          49.26667
+        ]
+      },
+      "properties": {
+        "name": "Gross-Divina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.58333,
+          46.35
+        ]
+      },
+      "properties": {
+        "name": "Grossliebenthal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5,
+          51.93333
+        ]
+      },
+      "properties": {
+        "name": "Gr\u00fcneberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.01667,
+          38.73333
+        ]
+      },
+      "properties": {
+        "name": "Guare\u00f1a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.23333,
+          43.76667
+        ]
+      },
+      "properties": {
+        "name": "Gu\u00eaa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.56667,
+          13.78333
+        ]
+      },
+      "properties": {
+        "name": "Gurram Konda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.38333,
+          51.91667
+        ]
+      },
+      "properties": {
+        "name": "G\u00fctersloh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.33333,
+          35.65
+        ]
+      },
+      "properties": {
+        "name": "Hachi-oji"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.53333,
+          26.8
+        ]
+      },
+      "properties": {
+        "name": "Haraiya"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.16667,
+          38.25
+        ]
+      },
+      "properties": {
+        "name": "Harrison County"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.81667,
+          28.95
+        ]
+      },
+      "properties": {
+        "name": "Hassi-Jekna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1,
+          10
+        ]
+      },
+      "properties": {
+        "name": "Heredia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.66667,
+          59.85
+        ]
+      },
+      "properties": {
+        "name": "Hessle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.43333,
+          33.6
+        ]
+      },
+      "properties": {
+        "name": "Higashi-koen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.23333,
+          55.9
+        ]
+      },
+      "properties": {
+        "name": "High Possil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.86667,
+          41.8
+        ]
+      },
+      "properties": {
+        "name": "Homestead"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.86667,
+          21.3
+        ]
+      },
+      "properties": {
+        "name": "Honolulu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.91667,
+          50.3
+        ]
+      },
+      "properties": {
+        "name": "Hungen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7,
+          52.28333
+        ]
+      },
+      "properties": {
+        "name": "Ibbenb\u00fcren"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.66667,
+          39.75
+        ]
+      },
+      "properties": {
+        "name": "Indarch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.33333,
+          -3.4
+        ]
+      },
+      "properties": {
+        "name": "Itapicuru-Mirim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.33333,
+          18.75
+        ]
+      },
+      "properties": {
+        "name": "Jamkheir"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.44167,
+          43.83333
+        ]
+      },
+      "properties": {
+        "name": "Jelica"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.38333,
+          31.3
+        ]
+      },
+      "properties": {
+        "name": "Jhung"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5,
+          30.80833
+        ]
+      },
+      "properties": {
+        "name": "Jianshi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4,
+          55.7
+        ]
+      },
+      "properties": {
+        "name": "Jodzie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.45,
+          45.43333
+        ]
+      },
+      "properties": {
+        "name": "Jonzac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8,
+          12.85
+        ]
+      },
+      "properties": {
+        "name": "Judesegeri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3,
+          44.71667
+        ]
+      },
+      "properties": {
+        "name": "Juvinas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3,
+          47.35
+        ]
+      },
+      "properties": {
+        "name": "Kaba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.33333,
+          27.08333
+        ]
+      },
+      "properties": {
+        "name": "Kadonah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.96667,
+          27.25
+        ]
+      },
+      "properties": {
+        "name": "Kaee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.51667,
+          12.38333
+        ]
+      },
+      "properties": {
+        "name": "Kakangari"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.66667,
+          45.13333
+        ]
+      },
+      "properties": {
+        "name": "Kakowa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.98333,
+          17.83333
+        ]
+      },
+      "properties": {
+        "name": "Kalumbi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.3,
+          32.08333
+        ]
+      },
+      "properties": {
+        "name": "Kangra Valley"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.01667,
+          47.21667
+        ]
+      },
+      "properties": {
+        "name": "Karakol"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3,
+          48.4
+        ]
+      },
+      "properties": {
+        "name": "Kerilis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.08333,
+          48.11667
+        ]
+      },
+      "properties": {
+        "name": "Kernouve"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.61667,
+          38.98333
+        ]
+      },
+      "properties": {
+        "name": "Kesen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.3,
+          29.53333
+        ]
+      },
+      "properties": {
+        "name": "Khairpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.88333,
+          26.95
+        ]
+      },
+      "properties": {
+        "name": "Kheragur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.81667,
+          28.01667
+        ]
+      },
+      "properties": {
+        "name": "Khetri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34,
+          55
+        ]
+      },
+      "properties": {
+        "name": "Kikino"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.66667,
+          54.66667
+        ]
+      },
+      "properties": {
+        "name": "Killeter"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8,
+          51.6
+        ]
+      },
+      "properties": {
+        "name": "Klein-Wenden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4,
+          48.9
+        ]
+      },
+      "properties": {
+        "name": "Knyahinya"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.46472,
+          49.32694
+        ]
+      },
+      "properties": {
+        "name": "Kr\u00e4henberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.9,
+          54.03333
+        ]
+      },
+      "properties": {
+        "name": "Krasnoi-Ugol"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.5,
+          50.75
+        ]
+      },
+      "properties": {
+        "name": "Kuleschovka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.38333,
+          29.68333
+        ]
+      },
+      "properties": {
+        "name": "Kusiali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.63333,
+          32.03333
+        ]
+      },
+      "properties": {
+        "name": "Kyushu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.75,
+          47.08333
+        ]
+      },
+      "properties": {
+        "name": "La B\u00e9casse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.28333,
+          20.66667
+        ]
+      },
+      "properties": {
+        "name": "La Charca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.58333,
+          44.28333
+        ]
+      },
+      "properties": {
+        "name": "Laborel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.63333,
+          48.76667
+        ]
+      },
+      "properties": {
+        "name": "L'Aigle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.56667,
+          24.45
+        ]
+      },
+      "properties": {
+        "name": "Lalitpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.06667,
+          47.7
+        ]
+      },
+      "properties": {
+        "name": "Lanc\u00e9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.11667,
+          43.75
+        ]
+      },
+      "properties": {
+        "name": "Lancon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.11667,
+          51.9
+        ]
+      },
+      "properties": {
+        "name": "Launton"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.43333,
+          47.16667
+        ]
+      },
+      "properties": {
+        "name": "Le Pressoir"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.86667,
+          48.53333
+        ]
+      },
+      "properties": {
+        "name": "Le Teilleul"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.85,
+          52.26667
+        ]
+      },
+      "properties": {
+        "name": "Leonovka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.25,
+          48.35
+        ]
+      },
+      "properties": {
+        "name": "Les Ormes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.73333,
+          50.36667
+        ]
+      },
+      "properties": {
+        "name": "Lesves"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.78333,
+          52.56667
+        ]
+      },
+      "properties": {
+        "name": "Limerick"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9,
+          52.75
+        ]
+      },
+      "properties": {
+        "name": "Linum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.85,
+          50.2
+        ]
+      },
+      "properties": {
+        "name": "Lissa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.08333,
+          37.91667
+        ]
+      },
+      "properties": {
+        "name": "Little Piney"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.43333,
+          56
+        ]
+      },
+      "properties": {
+        "name": "Lixna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.8,
+          29.53333
+        ]
+      },
+      "properties": {
+        "name": "Lodran"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.83333,
+          38
+        ]
+      },
+      "properties": {
+        "name": "Los Martinez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.76667,
+          32.03333
+        ]
+      },
+      "properties": {
+        "name": "Lumpkin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.03333,
+          56.21667
+        ]
+      },
+      "properties": {
+        "name": "Lundsg\u00e5rd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.7,
+          61.2
+        ]
+      },
+      "properties": {
+        "name": "Luotolax"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.66667,
+          -5.2
+        ]
+      },
+      "properties": {
+        "name": "Macau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71667,
+          40.41667
+        ]
+      },
+      "properties": {
+        "name": "Madrid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.51667,
+          37.86667
+        ]
+      },
+      "properties": {
+        "name": "Magnesia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.7,
+          23.05
+        ]
+      },
+      "properties": {
+        "name": "Manbhoom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1,
+          20.96667
+        ]
+      },
+      "properties": {
+        "name": "Manegaon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.38333,
+          42.71667
+        ]
+      },
+      "properties": {
+        "name": "Mariaville"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.6,
+          41.9
+        ]
+      },
+      "properties": {
+        "name": "Marion (Iowa)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.15,
+          44.5
+        ]
+      },
+      "properties": {
+        "name": "Marmande"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.86667,
+          45.36667
+        ]
+      },
+      "properties": {
+        "name": "Mascombes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.61667,
+          48.13333
+        ]
+      },
+      "properties": {
+        "name": "M\u00e4ssing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57,
+          -20
+        ]
+      },
+      "properties": {
+        "name": "Mauritius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.68333,
+          24.68333
+        ]
+      },
+      "properties": {
+        "name": "Mazapil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8,
+          29.01667
+        ]
+      },
+      "properties": {
+        "name": "Meerut"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.15,
+          53.18333
+        ]
+      },
+      "properties": {
+        "name": "Menow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.06667,
+          55.05
+        ]
+      },
+      "properties": {
+        "name": "Mern"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1,
+          50.58333
+        ]
+      },
+      "properties": {
+        "name": "Meuselbach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.73333,
+          46.5
+        ]
+      },
+      "properties": {
+        "name": "Mez\u00f6-Madaras"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.61667,
+          25.9
+        ]
+      },
+      "properties": {
+        "name": "Mhow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.16667,
+          54.56667
+        ]
+      },
+      "properties": {
+        "name": "Middlesbrough"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.96667,
+          48.06667
+        ]
+      },
+      "properties": {
+        "name": "Mighei"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1,
+          46.18333
+        ]
+      },
+      "properties": {
+        "name": "Milena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7,
+          37.28333
+        ]
+      },
+      "properties": {
+        "name": "Mineo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23,
+          56.66667
+        ]
+      },
+      "properties": {
+        "name": "Misshof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.93333,
+          61.73333
+        ]
+      },
+      "properties": {
+        "name": "Mjelleim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.03333,
+          46.8
+        ]
+      },
+      "properties": {
+        "name": "Mocs"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.16667,
+          38.11667
+        ]
+      },
+      "properties": {
+        "name": "Molina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5,
+          35.25
+        ]
+      },
+      "properties": {
+        "name": "Monroe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.35,
+          43.26667
+        ]
+      },
+      "properties": {
+        "name": "Monte Milone"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.58333,
+          47.63333
+        ]
+      },
+      "properties": {
+        "name": "Montlivault"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.33333,
+          52.45
+        ]
+      },
+      "properties": {
+        "name": "Mooresfort"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.83333,
+          28.78333
+        ]
+      },
+      "properties": {
+        "name": "Moradabad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.13333,
+          44.6
+        ]
+      },
+      "properties": {
+        "name": "Mornans"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.33333,
+          26.83333
+        ]
+      },
+      "properties": {
+        "name": "Moti-ka-nagla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5,
+          45.2
+        ]
+      },
+      "properties": {
+        "name": "Motta di Conti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.01667,
+          12.63333
+        ]
+      },
+      "properties": {
+        "name": "Muddoor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.63333,
+          23.05
+        ]
+      },
+      "properties": {
+        "name": "Myhee Caunta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.21667,
+          26.98333
+        ]
+      },
+      "properties": {
+        "name": "Nagaria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5,
+          49.16667
+        ]
+      },
+      "properties": {
+        "name": "Nagy-Borov\u00e9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.2,
+          12.28333
+        ]
+      },
+      "properties": {
+        "name": "Nammianthal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.16667,
+          38.41667
+        ]
+      },
+      "properties": {
+        "name": "Nanjemoy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.66667,
+          21.25
+        ]
+      },
+      "properties": {
+        "name": "Nawapali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.48333,
+          18.68333
+        ]
+      },
+      "properties": {
+        "name": "Nedagolla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.5,
+          56.5
+        ]
+      },
+      "properties": {
+        "name": "Nerft"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.76667,
+          40
+        ]
+      },
+      "properties": {
+        "name": "New Concord"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.41667,
+          -7.45
+        ]
+      },
+      "properties": {
+        "name": "Ngawi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.38333,
+          13.85
+        ]
+      },
+      "properties": {
+        "name": "N'Goureyma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.56667,
+          34.2
+        ]
+      },
+      "properties": {
+        "name": "Nio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.48333,
+          44.08333
+        ]
+      },
+      "properties": {
+        "name": "Nobleborough"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.83333,
+          -32.36667
+        ]
+      },
+      "properties": {
+        "name": "Nogoya"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46,
+          54.81667
+        ]
+      },
+      "properties": {
+        "name": "Novo-Urei"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.75,
+          41.63333
+        ]
+      },
+      "properties": {
+        "name": "Nulles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.26667,
+          57.78333
+        ]
+      },
+      "properties": {
+        "name": "Ochansk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23,
+          58.5
+        ]
+      },
+      "properties": {
+        "name": "Oesel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.03333,
+          47.88333
+        ]
+      },
+      "properties": {
+        "name": "Ofeh\u00e9rt\u00f3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.58333,
+          46.06667
+        ]
+      },
+      "properties": {
+        "name": "Ohaba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5,
+          50.83333
+        ]
+      },
+      "properties": {
+        "name": "Okniny"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.38333,
+          43.88333
+        ]
+      },
+      "properties": {
+        "name": "Orgueil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.15,
+          47.11667
+        ]
+      },
+      "properties": {
+        "name": "Ornans"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.93333,
+          42.13333
+        ]
+      },
+      "properties": {
+        "name": "Orvinio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.35,
+          38.4
+        ]
+      },
+      "properties": {
+        "name": "Otomi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.21667,
+          38.6
+        ]
+      },
+      "properties": {
+        "name": "Ottawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16,
+          -18
+        ]
+      },
+      "properties": {
+        "name": "Ovambo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.86667,
+          43.4
+        ]
+      },
+      "properties": {
+        "name": "Oviedo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.3,
+          21.05
+        ]
+      },
+      "properties": {
+        "name": "Pacula"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7,
+          15.08333
+        ]
+      },
+      "properties": {
+        "name": "Pampanga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.35,
+          9.23333
+        ]
+      },
+      "properties": {
+        "name": "Parnallee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.98333,
+          48.53333
+        ]
+      },
+      "properties": {
+        "name": "Pavlograd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43,
+          52.03333
+        ]
+      },
+      "properties": {
+        "name": "Pavlovka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5,
+          -10.66667
+        ]
+      },
+      "properties": {
+        "name": "Peramiho"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.43333,
+          56.4
+        ]
+      },
+      "properties": {
+        "name": "Perth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.63333,
+          35.3
+        ]
+      },
+      "properties": {
+        "name": "Petersburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.58333,
+          11.25
+        ]
+      },
+      "properties": {
+        "name": "Phu Hong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.23333,
+          41.36667
+        ]
+      },
+      "properties": {
+        "name": "Picote"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.73333,
+          58.66667
+        ]
+      },
+      "properties": {
+        "name": "Pillistfer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.71667,
+          -32.86667
+        ]
+      },
+      "properties": {
+        "name": "Piquetberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.45,
+          25.8
+        ]
+      },
+      "properties": {
+        "name": "Pirgunje"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76,
+          29.58333
+        ]
+      },
+      "properties": {
+        "name": "Pirthalla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.91667,
+          11.58333
+        ]
+      },
+      "properties": {
+        "name": "Pnompehn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.13333,
+          50.93333
+        ]
+      },
+      "properties": {
+        "name": "Pohlitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.66667,
+          26.71667
+        ]
+      },
+      "properties": {
+        "name": "Pokhra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.85,
+          39.11667
+        ]
+      },
+      "properties": {
+        "name": "Pricetown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.18333,
+          23.36667
+        ]
+      },
+      "properties": {
+        "name": "Pulsora"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.26667,
+          52.76667
+        ]
+      },
+      "properties": {
+        "name": "Pultusk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.95,
+          13.33333
+        ]
+      },
+      "properties": {
+        "name": "Punganaru"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.18333,
+          17.76667
+        ]
+      },
+      "properties": {
+        "name": "Quenggouk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.66667,
+          39
+        ]
+      },
+      "properties": {
+        "name": "Quesa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.25,
+          46.6
+        ]
+      },
+      "properties": {
+        "name": "Quincay"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.03333,
+          52.98333
+        ]
+      },
+      "properties": {
+        "name": "Rakovka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.81667,
+          19.86667
+        ]
+      },
+      "properties": {
+        "name": "Rancho de la Presa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.98333,
+          52.2
+        ]
+      },
+      "properties": {
+        "name": "Ratyn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.28333,
+          44.76667
+        ]
+      },
+      "properties": {
+        "name": "Renazzo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5,
+          37.46667
+        ]
+      },
+      "properties": {
+        "name": "Richmond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.28333,
+          41.08333
+        ]
+      },
+      "properties": {
+        "name": "Rochester"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.51667,
+          -23.38333
+        ]
+      },
+      "properties": {
+        "name": "Rockhampton"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.55,
+          42.3
+        ]
+      },
+      "properties": {
+        "name": "Roda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.51667,
+          52.76667
+        ]
+      },
+      "properties": {
+        "name": "Rowton"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.08333,
+          27.43333
+        ]
+      },
+      "properties": {
+        "name": "Sabetmahet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.86667,
+          -29.2
+        ]
+      },
+      "properties": {
+        "name": "Santa Barbara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.85,
+          43.15
+        ]
+      },
+      "properties": {
+        "name": "Sauguis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.86667,
+          47.21667
+        ]
+      },
+      "properties": {
+        "name": "Savtschenskoje"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.46667,
+          48.11667
+        ]
+      },
+      "properties": {
+        "name": "Sch\u00f6nenberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.2,
+          44.36667
+        ]
+      },
+      "properties": {
+        "name": "Searsmont"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.78333,
+          26.75
+        ]
+      },
+      "properties": {
+        "name": "Segowlie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.56667,
+          41.05
+        ]
+      },
+      "properties": {
+        "name": "Seres"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6,
+          37.41667
+        ]
+      },
+      "properties": {
+        "name": "Sevilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6,
+          50.61667
+        ]
+      },
+      "properties": {
+        "name": "Sevrukovo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.3,
+          23.1
+        ]
+      },
+      "properties": {
+        "name": "Shalka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.83333,
+          24.55
+        ]
+      },
+      "properties": {
+        "name": "Shergotty"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.16667,
+          24.33333
+        ]
+      },
+      "properties": {
+        "name": "Shytal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.58333,
+          20.91667
+        ]
+      },
+      "properties": {
+        "name": "Sitathali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.86667,
+          59.73333
+        ]
+      },
+      "properties": {
+        "name": "Ski"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6,
+          45.68333
+        ]
+      },
+      "properties": {
+        "name": "Slavetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35,
+          55
+        ]
+      },
+      "properties": {
+        "name": "Slobodka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.86667,
+          43.66667
+        ]
+      },
+      "properties": {
+        "name": "Soko-Banja"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.73333,
+          47.36667
+        ]
+      },
+      "properties": {
+        "name": "Sologne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.33333,
+          35.16667
+        ]
+      },
+      "properties": {
+        "name": "Sone"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.05,
+          44.75
+        ]
+      },
+      "properties": {
+        "name": "St. Caprais-de-Quinsac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5,
+          46.95
+        ]
+      },
+      "properties": {
+        "name": "St. Christophe-la-Chartreuse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.75,
+          51.05
+        ]
+      },
+      "properties": {
+        "name": "St. Denis Westrem"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.15,
+          48.01667
+        ]
+      },
+      "properties": {
+        "name": "St. Germain-du-Pinel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.93333,
+          48.45
+        ]
+      },
+      "properties": {
+        "name": "St. Mesmin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.95,
+          59.93333
+        ]
+      },
+      "properties": {
+        "name": "St\u00e4lldalen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.56667,
+          49.28333
+        ]
+      },
+      "properties": {
+        "name": "Stannern"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.98333,
+          45.05
+        ]
+      },
+      "properties": {
+        "name": "Stavropol"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.21667,
+          26.71667
+        ]
+      },
+      "properties": {
+        "name": "Supuhee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41667,
+          36.18333
+        ]
+      },
+      "properties": {
+        "name": "Tadjera"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.9,
+          35.38333
+        ]
+      },
+      "properties": {
+        "name": "Takenouchi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.95,
+          -25.73333
+        ]
+      },
+      "properties": {
+        "name": "Tenham"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.95,
+          58.03333
+        ]
+      },
+      "properties": {
+        "name": "Tennasilm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.11667,
+          49.6
+        ]
+      },
+      "properties": {
+        "name": "Tieschitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2,
+          54.5
+        ]
+      },
+      "properties": {
+        "name": "Timochin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.53333,
+          -7.08333
+        ]
+      },
+      "properties": {
+        "name": "Tjabe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.21667,
+          20.16667
+        ]
+      },
+      "properties": {
+        "name": "Tomatlan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4,
+          43.6
+        ]
+      },
+      "properties": {
+        "name": "Toulouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.53333,
+          51.73333
+        ]
+      },
+      "properties": {
+        "name": "Tounkin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76667,
+          50.78333
+        ]
+      },
+      "properties": {
+        "name": "Tourinnes-la-Grosse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10,
+          45.46667
+        ]
+      },
+      "properties": {
+        "name": "Trenzano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.61667,
+          60
+        ]
+      },
+      "properties": {
+        "name": "Tysnes Island"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.61667,
+          51.65
+        ]
+      },
+      "properties": {
+        "name": "Uden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.78333,
+          13.48333
+        ]
+      },
+      "properties": {
+        "name": "Udipi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.33333,
+          30.33333
+        ]
+      },
+      "properties": {
+        "name": "Umbala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.18333,
+          52.11667
+        ]
+      },
+      "properties": {
+        "name": "Utrecht"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.83333,
+          46.15
+        ]
+      },
+      "properties": {
+        "name": "Vavilovka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.63333,
+          35.33333
+        ]
+      },
+      "properties": {
+        "name": "Veramin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.2,
+          48.41667
+        ]
+      },
+      "properties": {
+        "name": "Verkhne Tschirskaia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.16667,
+          43.5
+        ]
+      },
+      "properties": {
+        "name": "Vernon County"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.63333,
+          43.53333
+        ]
+      },
+      "properties": {
+        "name": "Virba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.16667,
+          46.63333
+        ]
+      },
+      "properties": {
+        "name": "Vouill\u00e9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.15,
+          38.68333
+        ]
+      },
+      "properties": {
+        "name": "Warrenton"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.38333,
+          48.95
+        ]
+      },
+      "properties": {
+        "name": "Wessely"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.266667,
+          41.266667
+        ]
+      },
+      "properties": {
+        "name": "Weston"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23,
+          -32.5
+        ]
+      },
+      "properties": {
+        "name": "Wittekrantz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.76667,
+          14.3
+        ]
+      },
+      "properties": {
+        "name": "Yatoor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139,
+          37.75
+        ]
+      },
+      "properties": {
+        "name": "Yonozu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.81667,
+          41.28333
+        ]
+      },
+      "properties": {
+        "name": "Yorktown (New York)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.68333,
+          50.28333
+        ]
+      },
+      "properties": {
+        "name": "Zaborzika"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.91667,
+          55.18333
+        ]
+      },
+      "properties": {
+        "name": "Zabrodje"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8,
+          33.7
+        ]
+      },
+      "properties": {
+        "name": "Zaisho"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.11667,
+          44.4
+        ]
+      },
+      "properties": {
+        "name": "Zavid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.91667,
+          49.88333
+        ]
+      },
+      "properties": {
+        "name": "Zebrak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.83333,
+          51.83333
+        ]
+      },
+      "properties": {
+        "name": "Zmenj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.28333,
+          -15.18333
+        ]
+      },
+      "properties": {
+        "name": "Zomba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.5,
+          46.93333
+        ]
+      },
+      "properties": {
+        "name": "Zsadany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.3,
+          60.43333
+        ]
+      },
+      "properties": {
+        "name": "Abo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.68333,
+          36.9
+        ]
+      },
+      "properties": {
+        "name": "Adalia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1,
+          38.7
+        ]
+      },
+      "properties": {
+        "name": "Admire"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.25,
+          35.75
+        ]
+      },
+      "properties": {
+        "name": "Alexander County"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.46667,
+          44.65
+        ]
+      },
+      "properties": {
+        "name": "Algoma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.25,
+          49.76667
+        ]
+      },
+      "properties": {
+        "name": "Alt Bela"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.06667,
+          20.58333
+        ]
+      },
+      "properties": {
+        "name": "Ameca-Ameca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.63333,
+          49.65
+        ]
+      },
+      "properties": {
+        "name": "Andryushki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97,
+          17.7
+        ]
+      },
+      "properties": {
+        "name": "Apoala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.98333,
+          30.33333
+        ]
+      },
+      "properties": {
+        "name": "Arispe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1,
+          44.6
+        ]
+      },
+      "properties": {
+        "name": "Arlington"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88,
+          47
+        ]
+      },
+      "properties": {
+        "name": "Armanty"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.53333,
+          35.58333
+        ]
+      },
+      "properties": {
+        "name": "Asheville"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92,
+          26
+        ]
+      },
+      "properties": {
+        "name": "Assam"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5,
+          32.63333
+        ]
+      },
+      "properties": {
+        "name": "Auburn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.08333,
+          38.16667
+        ]
+      },
+      "properties": {
+        "name": "Augusta County"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.08333,
+          48.06667
+        ]
+      },
+      "properties": {
+        "name": "Augustinovka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.88333,
+          36.3
+        ]
+      },
+      "properties": {
+        "name": "Babb's Mill (Blake's Iron)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.88333,
+          36.3
+        ]
+      },
+      "properties": {
+        "name": "Babb's Mill (Troost's Iron)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.83333,
+          26.2
+        ]
+      },
+      "properties": {
+        "name": "Bacubirito"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05,
+          41.28333
+        ]
+      },
+      "properties": {
+        "name": "Bald Eagle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.82533,
+          -37.57083
+        ]
+      },
+      "properties": {
+        "name": "Ballarat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.76667,
+          -27.7
+        ]
+      },
+      "properties": {
+        "name": "Ballinoo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.33333,
+          -28.08333
+        ]
+      },
+      "properties": {
+        "name": "Barranca Blanca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.56667,
+          -35.3
+        ]
+      },
+      "properties": {
+        "name": "Barratta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.3,
+          39.6
+        ]
+      },
+      "properties": {
+        "name": "Bear Creek"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.4,
+          24.9
+        ]
+      },
+      "properties": {
+        "name": "Bella Roca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.91667,
+          -37.15
+        ]
+      },
+      "properties": {
+        "name": "Bendock"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.81667,
+          46.75
+        ]
+      },
+      "properties": {
+        "name": "Berdyansk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.56667,
+          -29.88333
+        ]
+      },
+      "properties": {
+        "name": "Bingera"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.2,
+          51.95
+        ]
+      },
+      "properties": {
+        "name": "Bischt\u00fcbe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.53333,
+          49.96667
+        ]
+      },
+      "properties": {
+        "name": "Bitburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35,
+          35.58333
+        ]
+      },
+      "properties": {
+        "name": "Black Mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.03333,
+          -41.18333
+        ]
+      },
+      "properties": {
+        "name": "Blue Tier"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.87222,
+          29.87861
+        ]
+      },
+      "properties": {
+        "name": "Bluff (a)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.76667,
+          49.05
+        ]
+      },
+      "properties": {
+        "name": "Bohumilitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.83333,
+          -23.5
+        ]
+      },
+      "properties": {
+        "name": "Bond Springs"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.11667,
+          -31.15
+        ]
+      },
+      "properties": {
+        "name": "Boogaldi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.75,
+          37.5
+        ]
+      },
+      "properties": {
+        "name": "Botetourt County"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.33333,
+          52.5
+        ]
+      },
+      "properties": {
+        "name": "Brahin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.16361,
+          37.5825
+        ]
+      },
+      "properties": {
+        "name": "Brenham"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.86667,
+          35.71667
+        ]
+      },
+      "properties": {
+        "name": "Bridgewater"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.18333,
+          42.75
+        ]
+      },
+      "properties": {
+        "name": "Burlington"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.36667,
+          38.3
+        ]
+      },
+      "properties": {
+        "name": "Butler"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8,
+          24.5
+        ]
+      },
+      "properties": {
+        "name": "Cacaria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5,
+          -25
+        ]
+      },
+      "properties": {
+        "name": "Cachiyuyal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8,
+          43.2
+        ]
+      },
+      "properties": {
+        "name": "Cambria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.11667,
+          -27.66667
+        ]
+      },
+      "properties": {
+        "name": "Campo de Pucara (iron)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.48333,
+          34.2
+        ]
+      },
+      "properties": {
+        "name": "Canton"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1,
+          40.9
+        ]
+      },
+      "properties": {
+        "name": "Canyon City"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.03333,
+          35.05
+        ]
+      },
+      "properties": {
+        "name": "Canyon Diablo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.93333,
+          76.13333
+        ]
+      },
+      "properties": {
+        "name": "Cape York"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.48333,
+          -45.28333
+        ]
+      },
+      "properties": {
+        "name": "Caperr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69,
+          -24
+        ]
+      },
+      "properties": {
+        "name": "Carcote"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.03333,
+          31.91667
+        ]
+      },
+      "properties": {
+        "name": "Carlton"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.98333,
+          36.26667
+        ]
+      },
+      "properties": {
+        "name": "Carthage"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.8,
+          30.4
+        ]
+      },
+      "properties": {
+        "name": "Casas Grandes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85,
+          37.25
+        ]
+      },
+      "properties": {
+        "name": "Casey County"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.41667,
+          -41.5
+        ]
+      },
+      "properties": {
+        "name": "Castray River"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.90861,
+          29.82806
+        ]
+      },
+      "properties": {
+        "name": "Cedar (Texas)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.26667,
+          34.01667
+        ]
+      },
+      "properties": {
+        "name": "Cedartown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.25,
+          -26.5
+        ]
+      },
+      "properties": {
+        "name": "Cha\u00f1aral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.01667,
+          23.08333
+        ]
+      },
+      "properties": {
+        "name": "Charcas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2,
+          34.7
+        ]
+      },
+      "properties": {
+        "name": "Chesterville"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -136,
+          59.33333
+        ]
+      },
+      "properties": {
+        "name": "Chilkoot"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.66667,
+          33.5
+        ]
+      },
+      "properties": {
+        "name": "Chulafinnee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.1,
+          27
+        ]
+      },
+      "properties": {
+        "name": "Chupaderos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5,
+          39.11667
+        ]
+      },
+      "properties": {
+        "name": "Cincinnati"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.78333,
+          34.88333
+        ]
+      },
+      "properties": {
+        "name": "Cleveland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.73333,
+          28.7
+        ]
+      },
+      "properties": {
+        "name": "Coahuila"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.25,
+          -22.56667
+        ]
+      },
+      "properties": {
+        "name": "Cobija"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.73333,
+          35.3
+        ]
+      },
+      "properties": {
+        "name": "Colfax"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.125,
+          -34.96667
+        ]
+      },
+      "properties": {
+        "name": "Coolac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87,
+          36.43333
+        ]
+      },
+      "properties": {
+        "name": "Coopertown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.4,
+          -27.3
+        ]
+      },
+      "properties": {
+        "name": "Copiapo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.33333,
+          -26.03333
+        ]
+      },
+      "properties": {
+        "name": "Corrizatillo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.25,
+          35.78333
+        ]
+      },
+      "properties": {
+        "name": "Cosby's Creek"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.23333,
+          36.83333
+        ]
+      },
+      "properties": {
+        "name": "Costilla Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.78333,
+          39.2
+        ]
+      },
+      "properties": {
+        "name": "Covert"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.68333,
+          -33.85
+        ]
+      },
+      "properties": {
+        "name": "Cowra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.91667,
+          35.83333
+        ]
+      },
+      "properties": {
+        "name": "Crab Orchard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.73333,
+          37.23333
+        ]
+      },
+      "properties": {
+        "name": "Cranberry Plains"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3,
+          -38.1
+        ]
+      },
+      "properties": {
+        "name": "Cranbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80,
+          22
+        ]
+      },
+      "properties": {
+        "name": "Cuba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.98333,
+          34.8
+        ]
+      },
+      "properties": {
+        "name": "Dalton"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.16667,
+          39.75
+        ]
+      },
+      "properties": {
+        "name": "Dayton"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.75,
+          36.5
+        ]
+      },
+      "properties": {
+        "name": "Deep Springs"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5,
+          -33.5
+        ]
+      },
+      "properties": {
+        "name": "Dehesa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.91667,
+          36.91667
+        ]
+      },
+      "properties": {
+        "name": "Dellys"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.68333,
+          39.65
+        ]
+      },
+      "properties": {
+        "name": "Densmore (1879)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97,
+          33
+        ]
+      },
+      "properties": {
+        "name": "Denton County"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97,
+          33.81667
+        ]
+      },
+      "properties": {
+        "name": "Dexter"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.58333,
+          38.41667
+        ]
+      },
+      "properties": {
+        "name": "Doyleville"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7,
+          35.85
+        ]
+      },
+      "properties": {
+        "name": "Duel Hill (1854)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7,
+          35.85
+        ]
+      },
+      "properties": {
+        "name": "Duel Hill (1873)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.96667,
+          38.61667
+        ]
+      },
+      "properties": {
+        "name": "Eagle Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5,
+          33.5
+        ]
+      },
+      "properties": {
+        "name": "El Capitan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.71667,
+          -34.5
+        ]
+      },
+      "properties": {
+        "name": "Eli Elwah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3,
+          39.71667
+        ]
+      },
+      "properties": {
+        "name": "Emmitsburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.95,
+          39.86667
+        ]
+      },
+      "properties": {
+        "name": "Enon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.75,
+          33.9
+        ]
+      },
+      "properties": {
+        "name": "Estacado"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2,
+          36.1
+        ]
+      },
+      "properties": {
+        "name": "Forsyth County"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.38333,
+          44.35
+        ]
+      },
+      "properties": {
+        "name": "Fort Pierre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.61667,
+          38.81667
+        ]
+      },
+      "properties": {
+        "name": "Franceville"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.83333,
+          38.2
+        ]
+      },
+      "properties": {
+        "name": "Frankfort (iron)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100,
+          38.5
+        ]
+      },
+      "properties": {
+        "name": "Franklinville"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.85,
+          32.7
+        ]
+      },
+      "properties": {
+        "name": "Fukue"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.81667,
+          41.96667
+        ]
+      },
+      "properties": {
+        "name": "Gerona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18,
+          -25.5
+        ]
+      },
+      "properties": {
+        "name": "Gibeon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.2,
+          -30.38333
+        ]
+      },
+      "properties": {
+        "name": "Gilgoin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.8,
+          35.6
+        ]
+      },
+      "properties": {
+        "name": "Glorieta Mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.6,
+          26.16667
+        ]
+      },
+      "properties": {
+        "name": "Goalpara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.76667,
+          42.96667
+        ]
+      },
+      "properties": {
+        "name": "Grand Rapids"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.31667,
+          37.83333
+        ]
+      },
+      "properties": {
+        "name": "Greenbrier County"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.83333,
+          35.56667
+        ]
+      },
+      "properties": {
+        "name": "Guilford County"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.91667,
+          52.28333
+        ]
+      },
+      "properties": {
+        "name": "Hainholz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.43333,
+          44.91667
+        ]
+      },
+      "properties": {
+        "name": "Hammond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4,
+          32.48333
+        ]
+      },
+      "properties": {
+        "name": "Haniet-el-Beguel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114,
+          45
+        ]
+      },
+      "properties": {
+        "name": "Hayden Creek"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.61667,
+          -33.31667
+        ]
+      },
+      "properties": {
+        "name": "Hex River Mountains"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.03333,
+          40.33333
+        ]
+      },
+      "properties": {
+        "name": "Hildreth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.43333,
+          34.36667
+        ]
+      },
+      "properties": {
+        "name": "Holland's Store"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.78333,
+          36.55
+        ]
+      },
+      "properties": {
+        "name": "Hopper"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70,
+          -26
+        ]
+      },
+      "properties": {
+        "name": "Ilimaes (iron)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.55,
+          46.68333
+        ]
+      },
+      "properties": {
+        "name": "Illinois Gulch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.80667,
+          -24.20333
+        ]
+      },
+      "properties": {
+        "name": "Imilac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5,
+          36.93333
+        ]
+      },
+      "properties": {
+        "name": "Indian Valley"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.88333,
+          -38.33333
+        ]
+      },
+      "properties": {
+        "name": "Indio Rico"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.73333,
+          -20.18333
+        ]
+      },
+      "properties": {
+        "name": "Iquique"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.86667,
+          31.96667
+        ]
+      },
+      "properties": {
+        "name": "Iredell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112,
+          53
+        ]
+      },
+      "properties": {
+        "name": "Iron Creek"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.55972,
+          46.07944
+        ]
+      },
+      "properties": {
+        "name": "Iron River"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.31667,
+          35.33333
+        ]
+      },
+      "properties": {
+        "name": "Ivanpah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5,
+          36.41667
+        ]
+      },
+      "properties": {
+        "name": "Jackson County"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5,
+          46.61667
+        ]
+      },
+      "properties": {
+        "name": "Jamestown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.38333,
+          37.9
+        ]
+      },
+      "properties": {
+        "name": "Jenny's Creek"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.73333,
+          38.76667
+        ]
+      },
+      "properties": {
+        "name": "Jerome (Kansas)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.5,
+          42.83333
+        ]
+      },
+      "properties": {
+        "name": "Jiapigou"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5,
+          35.76667
+        ]
+      },
+      "properties": {
+        "name": "Joe Wright Mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69,
+          -24
+        ]
+      },
+      "properties": {
+        "name": "Joel's Iron"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.46667,
+          36.3
+        ]
+      },
+      "properties": {
+        "name": "Jonesboro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.25,
+          -26
+        ]
+      },
+      "properties": {
+        "name": "Juncal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.91667,
+          51.11667
+        ]
+      },
+      "properties": {
+        "name": "Karagai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.41667,
+          32.58333
+        ]
+      },
+      "properties": {
+        "name": "Kaufman"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5,
+          29.4
+        ]
+      },
+      "properties": {
+        "name": "Kendall County"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6,
+          38.81667
+        ]
+      },
+      "properties": {
+        "name": "Kenton County"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.73333,
+          32.9
+        ]
+      },
+      "properties": {
+        "name": "Kingston"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.88333,
+          54.86667
+        ]
+      },
+      "properties": {
+        "name": "Kissij"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4,
+          10.26667
+        ]
+      },
+      "properties": {
+        "name": "Kodaikanal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114,
+          33.5
+        ]
+      },
+      "properties": {
+        "name": "Kofa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.36667,
+          40.48333
+        ]
+      },
+      "properties": {
+        "name": "Kokomo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.41667,
+          -30.55
+        ]
+      },
+      "properties": {
+        "name": "Kokstad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.78333,
+          -34.15
+        ]
+      },
+      "properties": {
+        "name": "Kulnine"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.78333,
+          43.73333
+        ]
+      },
+      "properties": {
+        "name": "La Caille"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.36667,
+          38.4
+        ]
+      },
+      "properties": {
+        "name": "La Grange"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.71667,
+          41.6
+        ]
+      },
+      "properties": {
+        "name": "La Porte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.81667,
+          -19.91667
+        ]
+      },
+      "properties": {
+        "name": "La Primitiva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.03333,
+          34.5
+        ]
+      },
+      "properties": {
+        "name": "Laurens County"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21,
+          49
+        ]
+      },
+      "properties": {
+        "name": "Lenarto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.25,
+          34
+        ]
+      },
+      "properties": {
+        "name": "Lexington County"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.25,
+          35.66667
+        ]
+      },
+      "properties": {
+        "name": "Lick Creek"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.51667,
+          31.55
+        ]
+      },
+      "properties": {
+        "name": "Lime Creek"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.91667,
+          35.86667
+        ]
+      },
+      "properties": {
+        "name": "Linville"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1,
+          33.33333
+        ]
+      },
+      "properties": {
+        "name": "Locust Grove"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.15,
+          39.41667
+        ]
+      },
+      "properties": {
+        "name": "Lonaconing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6,
+          39.93333
+        ]
+      },
+      "properties": {
+        "name": "Long Island"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.36667,
+          26.01667
+        ]
+      },
+      "properties": {
+        "name": "Loreto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.28333,
+          19.26667
+        ]
+      },
+      "properties": {
+        "name": "Los Reyes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5,
+          34.25
+        ]
+      },
+      "properties": {
+        "name": "Losttown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.63333,
+          17.9
+        ]
+      },
+      "properties": {
+        "name": "Lucky Hill"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.96667,
+          34
+        ]
+      },
+      "properties": {
+        "name": "Luis Lopez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.36667,
+          -34.66667
+        ]
+      },
+      "properties": {
+        "name": "Lujan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70,
+          -27
+        ]
+      },
+      "properties": {
+        "name": "Lutschaunig's Stone"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.46667,
+          44.5
+        ]
+      },
+      "properties": {
+        "name": "Madoc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.48333,
+          49.33333
+        ]
+      },
+      "properties": {
+        "name": "Magura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.26667,
+          50
+        ]
+      },
+      "properties": {
+        "name": "Mainz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.4,
+          -46.31667
+        ]
+      },
+      "properties": {
+        "name": "Makarewa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.11667,
+          -23.45
+        ]
+      },
+      "properties": {
+        "name": "Mantos Blancos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.25,
+          37
+        ]
+      },
+      "properties": {
+        "name": "Marshall County"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.88333,
+          31.5
+        ]
+      },
+      "properties": {
+        "name": "Mart"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.71667,
+          33.18333
+        ]
+      },
+      "properties": {
+        "name": "McKinney"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5,
+          -23.1
+        ]
+      },
+      "properties": {
+        "name": "Mejillones"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.28333,
+          -26.33333
+        ]
+      },
+      "properties": {
+        "name": "Merceditas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44,
+          -18.5
+        ]
+      },
+      "properties": {
+        "name": "Minas Gerais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1,
+          36.55
+        ]
+      },
+      "properties": {
+        "name": "Mincy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1,
+          16.8
+        ]
+      },
+      "properties": {
+        "name": "Misteca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.66667,
+          29.8
+        ]
+      },
+      "properties": {
+        "name": "Moctezuma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.28333,
+          -30.91667
+        ]
+      },
+      "properties": {
+        "name": "Moonbi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.06667,
+          39.33333
+        ]
+      },
+      "properties": {
+        "name": "Morland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.66667,
+          62
+        ]
+      },
+      "properties": {
+        "name": "Morradal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.38333,
+          36.2
+        ]
+      },
+      "properties": {
+        "name": "Morristown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.21667,
+          39.78333
+        ]
+      },
+      "properties": {
+        "name": "Mount Joy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.88333,
+          42.7
+        ]
+      },
+      "properties": {
+        "name": "Mount Morris (New York)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.21667,
+          38.41667
+        ]
+      },
+      "properties": {
+        "name": "Mount Ouray"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.4,
+          36.93333
+        ]
+      },
+      "properties": {
+        "name": "Mount Vernon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.41667,
+          47.28333
+        ]
+      },
+      "properties": {
+        "name": "M\u00fchlau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.46667,
+          -34.1
+        ]
+      },
+      "properties": {
+        "name": "Muizenberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.95,
+          -28.93333
+        ]
+      },
+      "properties": {
+        "name": "Mungindi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.41667,
+          35.83333
+        ]
+      },
+      "properties": {
+        "name": "Murfreesboro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.03333,
+          35.1
+        ]
+      },
+      "properties": {
+        "name": "Murphy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.7,
+          46.98333
+        ]
+      },
+      "properties": {
+        "name": "Nagy-V\u00e1zsony"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.7,
+          -34.25
+        ]
+      },
+      "properties": {
+        "name": "Narraburra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5,
+          37.75
+        ]
+      },
+      "properties": {
+        "name": "Nelson County"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.95,
+          50.96667
+        ]
+      },
+      "properties": {
+        "name": "Nenntmannsdorf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6,
+          38.5
+        ]
+      },
+      "properties": {
+        "name": "Ness County (1894)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.15,
+          54.23333
+        ]
+      },
+      "properties": {
+        "name": "Netscha\u00ebvo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.93333,
+          48
+        ]
+      },
+      "properties": {
+        "name": "Niagara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.58333,
+          59.98333
+        ]
+      },
+      "properties": {
+        "name": "Nochtuisk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.21667,
+          -29.86667
+        ]
+      },
+      "properties": {
+        "name": "Nocoleche"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.91667,
+          51.85
+        ]
+      },
+      "properties": {
+        "name": "Norin-Shibir"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69,
+          -23
+        ]
+      },
+      "properties": {
+        "name": "North Chile"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.01667,
+          38.95
+        ]
+      },
+      "properties": {
+        "name": "Oakley (stone)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1,
+          52.26667
+        ]
+      },
+      "properties": {
+        "name": "Obernkirchen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.51667,
+          49.31667
+        ]
+      },
+      "properties": {
+        "name": "Oczeretna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89,
+          33.5
+        ]
+      },
+      "properties": {
+        "name": "Oktibbeha County"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25,
+          -30
+        ]
+      },
+      "properties": {
+        "name": "Orange River (iron)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.63333,
+          39.68333
+        ]
+      },
+      "properties": {
+        "name": "Oroville"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.38333,
+          33.63333
+        ]
+      },
+      "properties": {
+        "name": "Oscuro Mountains"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.08333,
+          -26.68333
+        ]
+      },
+      "properties": {
+        "name": "Pampa del Infierno"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5,
+          -26.5
+        ]
+      },
+      "properties": {
+        "name": "Pan de Azucar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.33333,
+          51.16667
+        ]
+      },
+      "properties": {
+        "name": "Pavlodar (pallasite)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.23333,
+          35.05
+        ]
+      },
+      "properties": {
+        "name": "Persimmon Creek"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.18333,
+          53.35
+        ]
+      },
+      "properties": {
+        "name": "Petropavlovsk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.66667,
+          -34.78333
+        ]
+      },
+      "properties": {
+        "name": "Pevensey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.91667,
+          29.68333
+        ]
+      },
+      "properties": {
+        "name": "Pipe Creek"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45,
+          -17.3
+        ]
+      },
+      "properties": {
+        "name": "Pirapora"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80,
+          40.43333
+        ]
+      },
+      "properties": {
+        "name": "Pittsburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.31667,
+          41.33333
+        ]
+      },
+      "properties": {
+        "name": "Plymouth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.5,
+          39.63333
+        ]
+      },
+      "properties": {
+        "name": "Prairie Dog Creek"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.91667,
+          -27.15
+        ]
+      },
+      "properties": {
+        "name": "Puquios"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.25,
+          33.25
+        ]
+      },
+      "properties": {
+        "name": "Putnam County"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.83333,
+          47
+        ]
+      },
+      "properties": {
+        "name": "Rafr\u00fcti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.3,
+          24.11667
+        ]
+      },
+      "properties": {
+        "name": "Rancho de la Pila (1882)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95,
+          32
+        ]
+      },
+      "properties": {
+        "name": "Red River"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.5,
+          40.25
+        ]
+      },
+      "properties": {
+        "name": "Red Willow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.51667,
+          43.86667
+        ]
+      },
+      "properties": {
+        "name": "Reed City"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.28333,
+          -34.66667
+        ]
+      },
+      "properties": {
+        "name": "Rhine Villa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.66667,
+          25.33333
+        ]
+      },
+      "properties": {
+        "name": "Rodeo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          -22.33333
+        ]
+      },
+      "properties": {
+        "name": "Roebourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.68333,
+          14.6
+        ]
+      },
+      "properties": {
+        "name": "Rosario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4,
+          34.3
+        ]
+      },
+      "properties": {
+        "name": "Ruff's Mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.45,
+          39.61667
+        ]
+      },
+      "properties": {
+        "name": "Rushville"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5,
+          39.8
+        ]
+      },
+      "properties": {
+        "name": "Russel Gulch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.66667,
+          32.91667
+        ]
+      },
+      "properties": {
+        "name": "Sacramento Mountains"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.66667,
+          40.91667
+        ]
+      },
+      "properties": {
+        "name": "Salt Lake City"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.78333,
+          37.95
+        ]
+      },
+      "properties": {
+        "name": "Salt River"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.875,
+          42.53333
+        ]
+      },
+      "properties": {
+        "name": "Sam's Valley"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.35,
+          31.41667
+        ]
+      },
+      "properties": {
+        "name": "San Angelo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5,
+          -23.43333
+        ]
+      },
+      "properties": {
+        "name": "San Cristobal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119,
+          36
+        ]
+      },
+      "properties": {
+        "name": "San Emigdio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.36667,
+          23.48333
+        ]
+      },
+      "properties": {
+        "name": "San Francisco del Mezquital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5,
+          29.5
+        ]
+      },
+      "properties": {
+        "name": "San Pedro Springs"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.3,
+          19.21667
+        ]
+      },
+      "properties": {
+        "name": "Santa Apolonia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6,
+          -26.21667
+        ]
+      },
+      "properties": {
+        "name": "Santa Catharina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73,
+          5.91667
+        ]
+      },
+      "properties": {
+        "name": "Santa Rosa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.58361,
+          41.76611
+        ]
+      },
+      "properties": {
+        "name": "S\u00e3o Juli\u00e3o de Moreira"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137,
+          36.5
+        ]
+      },
+      "properties": {
+        "name": "Saotome"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.81667,
+          48.48333
+        ]
+      },
+      "properties": {
+        "name": "Sarepta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.45,
+          53.4
+        ]
+      },
+      "properties": {
+        "name": "Schwetz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.16667,
+          36.76667
+        ]
+      },
+      "properties": {
+        "name": "Scottsville"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.55,
+          52.26667
+        ]
+      },
+      "properties": {
+        "name": "Seel\u00e4sgen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.41667,
+          49.75
+        ]
+      },
+      "properties": {
+        "name": "Selcany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.78333,
+          42.91667
+        ]
+      },
+      "properties": {
+        "name": "Seneca Falls"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.06667,
+          -24.55
+        ]
+      },
+      "properties": {
+        "name": "Serrania de Varas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.93333,
+          38.66667
+        ]
+      },
+      "properties": {
+        "name": "Shingle Springs"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.36667,
+          36.7
+        ]
+      },
+      "properties": {
+        "name": "Shirahagi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.35,
+          -22.9
+        ]
+      },
+      "properties": {
+        "name": "Sierra Gorda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.98333,
+          41.23333
+        ]
+      },
+      "properties": {
+        "name": "Silver Crown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.2,
+          -31.88333
+        ]
+      },
+      "properties": {
+        "name": "Silverton (New South Wales)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.4,
+          54.3
+        ]
+      },
+      "properties": {
+        "name": "Simbirsk (of P. Partsch)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.91667,
+          18.31667
+        ]
+      },
+      "properties": {
+        "name": "Singhur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35,
+          55
+        ]
+      },
+      "properties": {
+        "name": "Slobodka (of P. Partsch)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4,
+          37.13333
+        ]
+      },
+      "properties": {
+        "name": "Smithland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80,
+          36.41667
+        ]
+      },
+      "properties": {
+        "name": "Smith's Mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.85,
+          35.98333
+        ]
+      },
+      "properties": {
+        "name": "Smithville"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.21667,
+          41.65
+        ]
+      },
+      "properties": {
+        "name": "South Bend"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.93333,
+          58.61667
+        ]
+      },
+      "properties": {
+        "name": "Ssyromolotovo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5,
+          37.75
+        ]
+      },
+      "properties": {
+        "name": "St. Francois County"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.31667,
+          37.96667
+        ]
+      },
+      "properties": {
+        "name": "St. Genevieve County"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.05,
+          38.21667
+        ]
+      },
+      "properties": {
+        "name": "Staunton"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.18333,
+          40.6
+        ]
+      },
+      "properties": {
+        "name": "Sterling"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.48333,
+          34.2
+        ]
+      },
+      "properties": {
+        "name": "Summit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.91667,
+          34.16667
+        ]
+      },
+      "properties": {
+        "name": "Surprise Springs"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.51667,
+          50.88333
+        ]
+      },
+      "properties": {
+        "name": "Tabarz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.25,
+          27.71667
+        ]
+      },
+      "properties": {
+        "name": "Tamentit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.96667,
+          34.91667
+        ]
+      },
+      "properties": {
+        "name": "Tanokami Mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.75,
+          36.43333
+        ]
+      },
+      "properties": {
+        "name": "Tazewell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.8,
+          -27.33333
+        ]
+      },
+      "properties": {
+        "name": "Ternera"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.48333,
+          33.46667
+        ]
+      },
+      "properties": {
+        "name": "Thomson"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.05,
+          -25.7
+        ]
+      },
+      "properties": {
+        "name": "Thunda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.58333,
+          44.75
+        ]
+      },
+      "properties": {
+        "name": "Thurlow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2,
+          32.23333
+        ]
+      },
+      "properties": {
+        "name": "Tombigbee River"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6,
+          42.88333
+        ]
+      },
+      "properties": {
+        "name": "Tomhannock Creek"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.11667,
+          39.08333
+        ]
+      },
+      "properties": {
+        "name": "Tonganoxie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.1,
+          55.88333
+        ]
+      },
+      "properties": {
+        "name": "Toubil River"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7,
+          30.3
+        ]
+      },
+      "properties": {
+        "name": "Travis County (a)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.95278,
+          30.55556
+        ]
+      },
+      "properties": {
+        "name": "Travis County (b)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.13333,
+          43.36667
+        ]
+      },
+      "properties": {
+        "name": "Trenton"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.96667,
+          31.85
+        ]
+      },
+      "properties": {
+        "name": "Tucson"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84,
+          34.75
+        ]
+      },
+      "properties": {
+        "name": "Union County"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5,
+          -25.75
+        ]
+      },
+      "properties": {
+        "name": "Vaca Muerta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.36667,
+          48.63333
+        ]
+      },
+      "properties": {
+        "name": "Verkhne Dnieprovsk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.98333,
+          54.76667
+        ]
+      },
+      "properties": {
+        "name": "Verkhne Udinsk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.75,
+          -31.7
+        ]
+      },
+      "properties": {
+        "name": "Victoria West"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.35,
+          47.91667
+        ]
+      },
+      "properties": {
+        "name": "Villedieu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.47222,
+          21.49972
+        ]
+      },
+      "properties": {
+        "name": "Wabar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.16667,
+          39.33333
+        ]
+      },
+      "properties": {
+        "name": "Waconda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.13333,
+          -41.31667
+        ]
+      },
+      "properties": {
+        "name": "Wairarapa Valley"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.83333,
+          36.63333
+        ]
+      },
+      "properties": {
+        "name": "Waldron Ridge"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.16667,
+          34
+        ]
+      },
+      "properties": {
+        "name": "Walker County"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.75,
+          34.25
+        ]
+      },
+      "properties": {
+        "name": "Weaver Mountains"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.21667,
+          43.01667
+        ]
+      },
+      "properties": {
+        "name": "Welland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94,
+          35
+        ]
+      },
+      "properties": {
+        "name": "Western Arkansas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.91667,
+          34.06667
+        ]
+      },
+      "properties": {
+        "name": "Wichita County"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27,
+          -28.5
+        ]
+      },
+      "properties": {
+        "name": "Winburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.95,
+          40.76667
+        ]
+      },
+      "properties": {
+        "name": "Wooster"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.35,
+          17.53333
+        ]
+      },
+      "properties": {
+        "name": "Yanhuitlan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.55,
+          -32.45
+        ]
+      },
+      "properties": {
+        "name": "Yardea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5,
+          40.75
+        ]
+      },
+      "properties": {
+        "name": "York (iron)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.71667,
+          -32.1
+        ]
+      },
+      "properties": {
+        "name": "Youndegin"
+      }
+    }
+  ]
+}
