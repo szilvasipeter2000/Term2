@@ -20,4 +20,4 @@ The steps to run the whole ETL are the following:
 3. JSON GEOJSON FILES
    All the JSON files produced with MongoDB and the associated GeoJSON files.
 4. 2D MAPS BY TIME FRAME
-   A selection of 2D screenshots with various time frames showing how the numbers of discoveries increase over time and how     the geography evolves (e.g. no landing in Oman prior to 1950, early findings somehow in populated areas (Japan, Indian       subcontinent, Europe... and far less so in recent years (deserts, antartctica)).
+   A selection of 2D screenshots with various time frames showing how the numbers of discoveries increase over time and how     the geography evolves (e.g. no landing in Oman prior to 1950, early findings somehow in populated areas (Japan, Indian       subcontinent, Europe... and far less so in recent years (deserts, antarctica)).
