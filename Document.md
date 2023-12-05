@@ -2,55 +2,30 @@
 
 (The brackets are the parts we have to revise)
 
-## Background
-According to the article written by Milan Janosov, it turns out that 35% of the meteorites were recorded after 2000 and 98% after 1899. The question is that, do meteors observations really target areas with higher population density? Or do the meteoros landing have been observed where the country has more developed economy?　
+## Background and goals
 
-The link: https://www.linkedin.com/posts/milan-janosov_30daymapchallenge-gis-datascience-activity-7125409941577695232-s4oi/?utm_source=share&utm_medium=member_desktop
-
-## Goal
-
-1. Checking a connection between the number of meteorites and the population density
-
-2. Another assumption is that more developed countries are better at spotting meteorites due to more spending on fancy equipment. Thus the relation between meteorites and GDP per capita is also checked.
+For our analysis we were inspired by a data visualisation created by Milan Janosov on meteorite landings (https://www.linkedin.com/posts/milan-janosov_30daymapchallenge-gis-datascience-activity-7125409941577695232-s4oi/?utm_source=share&utm_medium=member_desktop). His map shows where the different meteorites have landed and posits that there seem to be more meteorites in areas with higher population density. We further check if a similar connection is existing between the countries' economic development and meteorite spottings - building on the assumption that richer countries have more budget to spend on scientific equipment that may aid them in this endeavour. 
 
 ## Data
 
-1. meteorite data as dataset:
+1. The dataset on meteorites is downloaded from the website of NASA and then loaded into SQL. The dataset contains more than 45 thousand observations. The table contains information (among others) on the id, name and mass of the meteorite, its size (measured in weight in grams), the year when it was found and the exact coordinates of its location in longitude and latitude. The exact structure of the table is visible on the EER diagram. There are no missing values in the table, however the location columns include 0 values. The data was loaded into MySQL.
+ https://data.nasa.gov/Space-Science/Meteorite-Landings/gh4g-9sfh
 
-    This comprehensive data set from The Meteoritical Society contains information on all of the known meteorite landings. The Fusion Table is collected by Javier de la Torre and we've also provided an XLS  file that consists of 34,513 meteorites and includes the following fields:
-    1. place
-    2. type_of_meteorite
-    3. mass_g
-    4. fell_found
-    5. year
-    6. database
-    7. coordinate_1
-    8. coordinates_2
-    9. cartodb_id
-    10. created_at
-    11. updated_at
-    12. year_date
-    13. longitude
-    14. latitude
-    15. geojson
+2. For population density we are using the dataset of the World Bank which we access through and API (which we describe later) in the Knime workflow. This data includes the country name, the country code and the population density value.
+3. For GDP per capita we are also using the World Bank database containing again country name, country code and the GDP per capita value in USD. This data was also loaded into MySQL.
 
 
-    https://data.nasa.gov/Space-Science/Meteorite-Landings/gh4g-9sfh
+## The ETL workflow
 
+We have created the ETL workflow using KNIME Analytics. 
 
-2. data from worldbank with country and population density data by year:
-
-   This can be filtered for observations after 2000. And the average year of 2010 is selected.
-
-   http://api.worldbank.org/v2/country/usa/indicator/EN.POP.DNST?date=2010
-
-3. BigDataCloud api for geocoding
+5. BigDataCloud api for geocoding
 
    It is used to change the geology into the another information such as the name of countries.
    
    (link)
 
-5. GDP per capita for 2007 which is the average year of observations after 2000
+6. GDP per capita for 2007 which is the average year of observations after 2000
 
     https://opencagedata.com/api
 
