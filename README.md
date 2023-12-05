@@ -13,11 +13,14 @@ The steps to run the whole ETL are the following:
    Please note that due to the large volume of the data and the monthly limit on the APIs, we have inputed and limiter in Node 3 which takes a random subset of 100 from the meteorites data. This way the whole workflow (especially the API calls run significantly faster and one can test if the workflow performs as intended. If it is necessary to run the workflow for the full dataset, one only needs to delete this part from the configuration of Node 3.)
 
 ## Folder Contents
-1. GRAPHS:
-   This folder contains all the graphs supporting the analysis between meteorite discoveries, population density and GDP.
-2. MONGO DB SCREENSHOTS
-   A couple of screenshot from MongoDB Compass to execute simple queries (cleanig and date selection).
-3. JSON GEOJSON FILES
-   All the JSON files produced with MongoDB and the associated GeoJSON files.
-4. 2D MAPS BY TIME FRAME
-   A selection of 2D screenshots with various time frames showing how the numbers of discoveries increase over time and how     the geography evolves (e.g. no landing in Oman prior to 1950, early findings somehow in populated areas (Japan, Indian       subcontinent, Europe... and far less so in recent years (deserts, antarctica)).
+1. Final Files : Contains all the final files for the Term Project 2
+   
+2. Work Files : Contains all the work files that eventually resulted in the final view for our project<br>
+   a. GRAPHS:<br>
+      This folder contains all the graphs supporting the analysis between meteorite discoveries, population density and GDP.<br><br>
+   b. MONGO DB SCREENSHOTS<br>
+      A couple of screenshot from MongoDB Compass to execute simple queries (cleanig and date selection).<br><br>
+   c. JSON GEOJSON FILES<br>
+      All the JSON files produced with MongoDB and the associated GeoJSON files.<br><br>
+   d. 2D MAPS BY TIME FRAME<br>
+      A selection of 2D screenshots with various time frames showing how the numbers of discoveries increase over time and how     the geography evolves (e.g. no landing in Oman prior to 1950, early findings somehow in populated areas (Japan, Indian subcontinent, Europe... and farless so in       recent years (deserts, antarctica)).<br>
